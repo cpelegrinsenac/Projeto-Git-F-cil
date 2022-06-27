@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Projeto do VIlle
 Projeto do Carlos Eduardo
 Projeto do Gabriel
@@ -20,5 +21,8 @@ Projeto do Gabriel
 Juliano teste 2
 >>>>>>> 6191c0383eab5a8d79ffde65cab6a47252003128
 
-Ville 
+Ville nunes 
 >>>>>>>>>>
+=======
+Juliano teste 3
+>>>>>>> 7999bc8aeba64c2dea647f377c8b569ef800978e
