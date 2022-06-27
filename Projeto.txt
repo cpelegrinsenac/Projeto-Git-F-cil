@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Projeto do Juliano
+=======
+Projeto do Gabriel
+>>>>>>> ee1833810601a527ff3a969d7989ed4f142f8c14
