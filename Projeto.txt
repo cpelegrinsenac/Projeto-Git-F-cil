@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Projeto do Carlos Eduardo 123
-Projeto do Gabriel
+=======
 
+Projeto do Juliano
+Projeto do Gabriel
+Projeto do Carlos Eduardo
+>>>>>>> 710b29d91da2ba6d909d70a294710d4cbe788e2f
+Projeto do Gabriel
+Juliano teste 2
