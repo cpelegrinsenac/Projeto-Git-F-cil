@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 Projeto do Ville
+=======
+Ville tb ta aqui!
+Projeto do Carlos Eduardo 123
+Projeto do Juliano
+Projeto do Gabriel
+Projeto do Carlos Eduardo
+Projeto do Gabriel
+Juliano teste 2
+
+>>>>>>> 70fd3bc3d811b355f34ed9db482130d704109ce6
